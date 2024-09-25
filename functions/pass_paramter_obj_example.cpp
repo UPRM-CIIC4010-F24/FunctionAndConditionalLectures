@@ -7,7 +7,6 @@ class Person {
 public:
     string name;
     int age;
-    bool canDrive;
     
     Person(string n, int a) : name(n), age(a) {}
 
